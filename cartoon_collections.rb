@@ -1,3 +1,7 @@
+cartoon_collections.rb
+Full Screen
+Close
+
 require 'pry'
 def roll_call_dwarves(dwarves)
  dwarves.each_with_index do |dwarves, index|

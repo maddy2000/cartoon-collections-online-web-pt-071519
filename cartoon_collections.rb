@@ -7,11 +7,12 @@ end
 end
 
 def summmon_captain_planet(array)
-    array.map! {|x|x.capitalize+ "!"}
+    array.map {|x|x.capitalize + "!"}
 end               
 
 def long_planeteer_calls(calls)
-   calls.length 
+  i = 0
+  calls.length 
 end
 
 def find_the_cheese# code an argument here
